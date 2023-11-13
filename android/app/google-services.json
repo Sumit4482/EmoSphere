@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "785447164436",
+    "project_id": "emosphere-9e78f",
+    "storage_bucket": "emosphere-9e78f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:785447164436:android:7e7ee63f6d304d6a6aa501",
+        "android_client_info": {
+          "package_name": "com.example.social_media_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEM_vfGcW5HnomVff2xmw4I8SPRYqKSDo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
